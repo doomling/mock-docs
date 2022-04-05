@@ -1,5 +1,6 @@
 {
-  "test repo": {
+  {
+    "name: "Mockumentary",
     "children": [
       {
         "name": "a subdirectory of sdk",

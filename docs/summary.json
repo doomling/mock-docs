@@ -1,6 +1,6 @@
 {
   {
-    "name: "Mockumentary",
+    "name": "Mockumentary",
     "children": [
       {
         "name": "a subdirectory of sdk",
@@ -11,7 +11,7 @@
           },
           {
             "name": "Code style guidelines",
-            "slug": "slug: /contributor/mock/getting-started/style-guidelines"
+            "slug": "/contributor/mock/getting-started/style-guidelines"
           }
         ]
       }

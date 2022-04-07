@@ -1,8 +1,8 @@
 {
-   "name": "Mockumentary",
+   "name": "Something",
     "children": [
       {
-        "name": "a subdirectory of sdk",
+        "name": "a subdirectory",
         "children": [
           {
             "name": "Code review standards",

@@ -1,60 +1,48 @@
-
-  "creator": [
-    {
-      "name": "hello",
-      "children": [
-        {
-          "name": "stuffy",
-          "children": [
-            {
-              "name": "Code review standards",
-              "slug": "/creator/mock/getting-started/code-review-standards"
-            },
-            {
-              "name": "Code style guidelines",
-              "slug": "/creator/mock/getting-started/style-guidelines"
-            }
-          ]
-        }
-      ]
-    }
-  ],
-  "user": [
-    {
-      "name": "gedasdasde",
-      "children": [
-        {
-          "name": "aaasdasdasda",
-          "children": [
-            {
-              "name": "Code review standards",
-              "slug": "/user/mock/getting-started/code-review-standards"
-            },
-            {
-              "name": "Code style guidelines",
-              "slug": "/user/mock/getting-started/style-guidelines"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "verde",
-      "children": [
-        {
-          "name": "aaasdasdassdasdasda",
-          "children": [
-            {
-              "name": "Codaaae review standards",
-              "slug": "/user/mock/getting-started/code-review-standards"
-            },
-            {
-              "name": "Code style guidelines",
-              "slug": "/user/mock/getting-started/style-guidelines"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+{
+	"creator": [{
+		"name": "hello",
+		"children": [{
+			"name": "stuffy",
+			"children": [{
+					"name": "Code review standards",
+					"slug": "/creator/mock/getting-started/code-review-standards"
+				},
+				{
+					"name": "Code style guidelines",
+					"slug": "/creator/mock/getting-started/style-guidelines"
+				}
+			]
+		}]
+	}],
+	"user": [{
+			"name": "gedasdasde",
+			"children": [{
+				"name": "aaasdasdasda",
+				"children": [{
+						"name": "Code review standards",
+						"slug": "/user/mock/getting-started/code-review-standards"
+					},
+					{
+						"name": "Code style guidelines",
+						"slug": "/user/mock/getting-started/style-guidelines"
+					}
+				]
+			}]
+		},
+		{
+			"name": "verde",
+			"children": [{
+				"name": "aaasdasdassdasdasda",
+				"children": [{
+						"name": "Codaaae review standards",
+						"slug": "/user/mock/getting-started/code-review-standards"
+					},
+					{
+						"name": "Code style guidelines",
+						"slug": "/user/mock/getting-started/style-guidelines"
+					}
+				]
+			}]
+		}
+	]
 }

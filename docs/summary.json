@@ -1,4 +1,15 @@
 {
+	"contributor": [{
+		"name": "Sample",
+		"children": [{
+			"name": "A folder",
+			"children": [{
+					"name": "Code review standards",
+					"slug": "/contributor/mock/getting-started/code-review-standards"
+				}
+			]
+		}]
+	}],
 	"creator": [{
 		"name": "hello",
 		"children": [{
@@ -18,10 +29,7 @@
 			"name": "gedasdasde",
 			"children": [{
 				"name": "aaasdasdasda",
-				"children": [{
-						"name": "Code review standards",
-						"slug": "/user/mock/getting-started/code-review-standards"
-					},
+				"children": [
 					{
 						"name": "Code style guidelines",
 						"slug": "/user/mock/getting-started/style-guidelines"
@@ -33,10 +41,7 @@
 			"name": "verde",
 			"children": [{
 				"name": "aaasdasdassdasdasda",
-				"children": [{
-						"name": "Codaaae review standards",
-						"slug": "/user/mock/getting-started/code-review-standards"
-					},
+				"children": [
 					{
 						"name": "Code style guidelines",
 						"slug": "/user/mock/getting-started/style-guidelines"

@@ -14,10 +14,7 @@
 		"name": "hello",
 		"children": [{
 			"name": "stuffy",
-			"children": [{
-					"name": "Code review standards",
-					"slug": "/creator/mock/getting-started/code-review-standards"
-				},
+			"children": [
 				{
 					"name": "Code style guidelines",
 					"slug": "/creator/mock/getting-started/style-guidelines"
@@ -32,7 +29,7 @@
 				"children": [
 					{
 						"name": "Code style guidelines",
-						"slug": "/user/mock/getting-started/style-guidelines"
+						"slug": "/user/mock/getting-started/code-review-standards"
 					}
 				]
 			}]
@@ -44,7 +41,7 @@
 				"children": [
 					{
 						"name": "Code style guidelines",
-						"slug": "/user/mock/getting-started/style-guidelines"
+						"slug": "/user/mock/getting-started/code-review-standards"
 					}
 				]
 			}]
